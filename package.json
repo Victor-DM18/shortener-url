@@ -1,0 +1,17 @@
+{
+  "name": "shortening-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Victor-DM18/shortener-url.git",
+  "author": "victor",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "base64-js": "^1.5.1",
+    "express": "^4.17.1",
+    "knex": "^0.95.11",
+    "sqlite3": "^5.0.2",
+    "utf8": "^3.0.0"
+  }
+}
